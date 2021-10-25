@@ -5,11 +5,14 @@
 
 <p><a href="https://twitter.com/itshamhere" target="blank"><img src="https://img.shields.io/twitter/follow/itshamhere?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="itshamhere" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://hamzahusein.netlify.app](https://hamzahusein.netlify.app)
+<h3>Here are some facts about me:</h3>
 
-- 📝 I regularly write articles on [https://hamzahusein.hashnode.dev](https://hamzahusein.hashnode.dev)
-
-- 📫 How to reach me **hamzas.husein@gmail.com**
+- 👩‍🎓 B.Engg degree in Mechanical Engg.
+- 🧠 Developer born in the Pandemic (2020)
+- 👩‍💻 Web dev enthusiast, Blogger extraordinaire
+- 🌱 Learning to build with **React**
+- 🌐 I blog over at Hashnode **[here](https://himadrishah.tech/)**
+- 🏎 Sunday's are for racing only
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
