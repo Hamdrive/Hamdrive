@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdrive&label=Profile%20views&color=0e75b6&style=flat" alt="hamdrive" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itshamhere" target="blank"><img src="https://img.shields.io/twitter/follow/itshamhere?logo=twitter&style=for-the-badge" alt="itshamhere" /></a> </p>
+<p><a href="https://twitter.com/itshamhere" target="blank"><img src="https://img.shields.io/twitter/follow/itshamhere?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="itshamhere" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://hamzahusein.netlify.app](https://hamzahusein.netlify.app)
 
