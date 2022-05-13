@@ -14,7 +14,7 @@
 - 🏎 Sunday's are for racing only
 
 <h3>Find out about my professional life here:</h3>
-<a href="https://peerlist.io/hamza"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
+<a href="https://peerlist.io/hamza"><img height=44 src="https://github.com/Hamdrive/Hamdrive/blob/main/Logo-Primary-LogoMark-Squircle.svg"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:hamzas.husein@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
